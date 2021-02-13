@@ -1,0 +1,32 @@
+body{
+    background: #b3e6c5;
+}
+
+.tahta{
+    width: 640px;
+    height: 640px;
+    margin: auto;
+    border: 25px solid #333;
+}
+
+.siyah{
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #26302a;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
+
+.beyaz{
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    font-size:50px;
+    text-align:center;
+    display: table-cell;
+    vertical-align:middle;
+}
